@@ -11,6 +11,8 @@ Link to the course: https://www.coursera.org/learn/machine-learning/
 # Weeks summary:
 
 ## week 1:
+During this week, I have got to know more about what machine learning is and its two learning types (supervised and unsupervised). I have also seen how linear regression predicts a real-valued output based on an input value. This week discusses the application of linear regression to housing price prediction, presents the notion of a cost function, and introduces the gradient descent method for learning. 
+There also another optional module in this week. It provides a refresher on linear algebra concepts which is necessary for the rest of the course.
 
 ## week 2:
 
