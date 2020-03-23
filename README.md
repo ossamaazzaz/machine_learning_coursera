@@ -45,5 +45,5 @@ You can find the documents of all the programming assignments inside the "pdfs" 
 You will find a solution for each assignment in a separate folder at the root of this repository.
 
 ## ex1_week2:
-    As told in the summary of week 2, this week ends by an exercise.
-    In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
+As told in the summary of week 2, this week ends by an exercise.
+In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
