@@ -3,3 +3,6 @@
 
 # mac os files
 .DS_Store
+
+# the file that contains the email address and the submission token
+token.mat

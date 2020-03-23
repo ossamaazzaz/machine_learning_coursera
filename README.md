@@ -41,6 +41,9 @@ Finally, by the end of this week, there is a programming assignment that require
 ## week 11:
 
 # Programming assignments:
+You can find the documents of all the programming assignments inside the "pdfs" folder, and you can find all the resources and the files needed for each assignment inside the "All exercises" folder in this repository.
+You will find a solution for each assignment in a separate folder at the root of this repository.
 
-## ex1:
-    
+## ex1_week2:
+    As told in the summary of week 2, this week ends by an exercise.
+    In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
