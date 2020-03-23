@@ -1,0 +1,5 @@
+# IDEs and Text editors
+.vscode
+
+# mac os files
+.DS_Store
