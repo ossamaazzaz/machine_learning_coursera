@@ -23,6 +23,7 @@ This week includes another module which is about the real implementation using p
 Finally, by the end of this week, there is a programming assignment that requires using Octave, we'll be talking about it in detail in the next section of this file.
 
 ## week 3:
+In this week, I've got an introduction to the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification. As well as the overfitting problem and regularization, which helps prevent models from overfitting the training data. 
 
 ## week 4:
 
@@ -47,3 +48,15 @@ You will find a solution for each assignment in a separate folder at the root of
 ## ex1_week2:
 As told in the summary of week 2, this week ends by an exercise.
 In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
+
+## ex2_week3:
+
+## ex3_week4:
+
+## ex4_week5:
+
+## ex5_week6:
+
+## ex6_week7:
+
+## ex7_week8:
