@@ -50,8 +50,10 @@ As told in the summary of week 2, this week ends by an exercise.
 In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
 
 ## ex2_week3:
+This programing assignement is about implementing logistic regression and applying it to two different datasets.
 
 ## ex3_week4:
+This programing assignment is about implementing logistic regression and applying it to two different datasets. First of all, I wrote the sigmoid function, then I wrote both cost and gradient functions for logistic regression. After that, I applied regularization on the previous example to prevent my model from overfitting the training data.
 
 ## ex4_week5:
 
