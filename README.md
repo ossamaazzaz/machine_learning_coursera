@@ -26,6 +26,7 @@ Finally, by the end of this week, there is a programming assignment that require
 In this week, I've got an introduction to the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification. As well as the overfitting problem and regularization, which helps prevent models from overfitting the training data. 
 
 ## week 4:
+This week covers neural networks. I learned that "neural networks" is a model inspired by how the brain works. It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks.
 
 ## week 5:
 
@@ -50,10 +51,10 @@ As told in the summary of week 2, this week ends by an exercise.
 In this exercise, I have implemented linear regression and got to see it work on data. I have applied what I learned in the last module of this week: plotting and visualizing data, fitting the linear regression parameters θ to the dataset using gradient descent, computing the coast and debugging.
 
 ## ex2_week3:
-This programing assignement is about implementing logistic regression and applying it to two different datasets.
+This programing assignment is about implementing logistic regression and applying it to two different datasets. First of all, I wrote the sigmoid function, then I wrote both cost and gradient functions for logistic regression. After that, I applied regularization on the previous example to prevent my model from overfitting the training data.
 
 ## ex3_week4:
-This programing assignment is about implementing logistic regression and applying it to two different datasets. First of all, I wrote the sigmoid function, then I wrote both cost and gradient functions for logistic regression. After that, I applied regularization on the previous example to prevent my model from overfitting the training data.
+
 
 ## ex4_week5:
 
