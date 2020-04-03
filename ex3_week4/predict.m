@@ -21,12 +21,9 @@ p = zeros(size(X, 1), 1);
 %       can use max(A, [], 2) to obtain the max for each row.
 %
 
-
-
-
-
-
-
+X_1 = [ones(m,1) X]; % m*401 matrix
+output = sigmoid([ones(m,1) sigmoid(X_1 * Theta1')] * Theta2'); % m * 26 matrix
+[~, p] = max(output, [], 2);
 
 
 % =========================================================================
